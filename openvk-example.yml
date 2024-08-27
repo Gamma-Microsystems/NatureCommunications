@@ -1,8 +1,8 @@
 openvk:
     debug: true
     appearance:
-        name: "OpenVK"
-        motd: "Yet another OpenVK instance"
+        name: "Nature Communications"
+        motd: "Powered by Gamma World and Tea"
     
     preferences:
         femaleGenderPriority: true
@@ -29,7 +29,7 @@ openvk:
             requirePhone: false
             forcePhoneVerification: false
             forceEmailVerification: false
-            forceStrongPassword: false
+            forceStrongPassword: true
             disablePasswordRestoring: true # turn this off if you have configured e-mail sending correctly
             enableSu: true
             rateLimits:
